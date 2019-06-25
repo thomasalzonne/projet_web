@@ -1,0 +1,29 @@
+body {
+    margin : 0;
+    padding : 0;
+}
+
+.page {
+    min-height: 75vh;
+}
+
+.page-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.about-img {
+    min-width : 75px;
+    max-width : 75px;
+    min-height: 75px;
+    max-height: 75px;
+}
+
+.connect-form {
+    width: 50vh;
+}
+.messages{
+  font-size: 1.5rem;
+  border: solid black 1px;
+  color: grey;
+}
